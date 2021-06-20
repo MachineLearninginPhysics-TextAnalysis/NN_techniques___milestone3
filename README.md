@@ -9,4 +9,4 @@ Also, we have achieved some important results for our task:
 3. Regularization is beter than Dropout for this task.
 4. It's better to increase the number of nodes at the primary layers, and then decrease them.
 
-Group members: Hamid Pour Mohammad, Mehdi Naghi Lou, Saeid Entezari.
+Group members: Hamid Pour Mohammad, Mehdi Naghi Lou, and Saeid Entezari.
