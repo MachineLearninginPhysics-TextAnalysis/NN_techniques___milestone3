@@ -1,6 +1,8 @@
 # milestone3-NN-techniques
 We want to apply the NN techniques to the data that we had prepared.
 
+IMPORTANT NOTE: IF YOU WANT TO RUN Main.ipynb, YOU HAVE TO DOWNLOAD THE DATA FILE. SO, YOU CAN DOWNLOAD IT PROM PREVIOUS MILESTONE; clean_data.csv.
+
 In this milestone, we are concerned with the efficiency of differend Neural Networks; fit_time, prediction_time, accuracy, etc. Although the structure of this MS is like the previous MS, but we have done a thorogh and comprehensive study on the performance of the models. Five models has been tested deeply; please note that if you have completely random NN, the accuracy should be around 4%. While our models can easily provide more than 50%.
 
 Also, we have achieved some important results for our task:
