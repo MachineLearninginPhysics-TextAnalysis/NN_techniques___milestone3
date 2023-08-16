@@ -11,4 +11,4 @@ Also, we have achieved some important results for our task:
 
 Main.ipynb is the code file for milestone3, but you can also look at Main_with_outputs.pdf instead.
 
-Group Members: Hamid Pour Mohammad, Mehdi Naghi Lou, and Saeid Entezari.
+Group Members: Hamid Pour Mohammad, Mehdi Naghi Lou, and Saeid Entezari. 
